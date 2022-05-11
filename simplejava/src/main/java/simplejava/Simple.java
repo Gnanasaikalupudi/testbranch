@@ -7,6 +7,10 @@ public class Simple {
 		System.out.println("Test"); 
 		System.out.println("ABC");  
 		System.out.println("ASD"); 
+		System.out.println("Welcome1");  
+		System.out.println("Test1"); 
+		System.out.println("ABC1");  
+		System.out.println("ASD1"); 
 	}
 
 }
