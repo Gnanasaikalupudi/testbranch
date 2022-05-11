@@ -7,6 +7,7 @@ public class Simple {
 		System.out.println("Test"); 
 		System.out.println("ABC");  
 		System.out.println("ASD"); 
+		System.out.println("AS1qD");
 	}
 
 }
